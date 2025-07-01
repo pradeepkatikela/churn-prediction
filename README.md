@@ -17,8 +17,8 @@ This machine learning project predicts whether a telecom customer will churn bas
 
 ## 🧠 ML Models Tried
 - Logistic Regression
-- Decision Tree
-- (Add any others you used)
+- RandomForestClassifier
+- KNeighborsClassifier
 
 ## 🔍 Dataset
 Source: [Kaggle - Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
